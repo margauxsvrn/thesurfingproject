@@ -1,0 +1,17 @@
+/* JUMBOTRON */
+
+.jumbotron {
+    height: 500px;
+    background-image: url(photo/surf.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.jumbotron {
+    position: absolute;
+    left:0;
+    right: 0;
+}
+
